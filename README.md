@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://www.icegif.com/wp-content/uploads/2024/04/solo-leveling-icegif-7.gif" align="center" style="width: 100%;" />
-</div>  
+
   
 
 <h1 align="center">Hello there, I'm Sayan</h1>
