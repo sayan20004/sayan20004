@@ -1,36 +1,54 @@
-
-  
-
-<h1 align="center">Hello there, I'm Sayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan20004&label=Profile%20views&color=0e75b6&style=flat" alt="sayan20004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan20004" alt="sayan20004" /></a> </p>
-
-- 🌱 I’m currently learning **MERN, WEB3**
-
-- 💬 Ask me about **MERN, WEB3, creative & modern web development**
-
-- 📫 How to reach me **sayanmaity600@gmail.com**
-
-- ⚡ Fun fact **I go crazy with creative web development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-maity-09a554188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-maity-09a554188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1baqcrwcnx/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1baqcrwcnx/?mibextid=wwxifr" height="30" width="40" /></a>
-<a href="https://instagram.com/sayanwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanwas" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan20004&show_icons=true&locale=en&layout=compact" alt="sayan20004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan20004&show_icons=true&locale=en" alt="sayan20004" /></p>
+# Hi there, I'm Sayan Maity 👋
 
 
+## 🚀 Full-Stack Developer | MERN, Web3 & Modern UI/UX
 
+[cite_start]I'm a third-year BCA student from West Bengal, India [cite: 3, 5][cite_start], currently pursuing my degree at MAKAUT University[cite: 8].
 
-###
+I am passionate about building high-impact, full-stack applications that solve real-world problems. [cite_start]My expertise lies in the **MERN stack**, but I'm also actively exploring **Web3** technologies[cite: 5]. [cite_start]I have a strong command of scalable front-end architecture, secure **JWT-based authentication** [cite: 6][cite_start], and creating visually rich, interactive interfaces with tools like **Figma, GSAP, and Three.js**[cite: 26].
+
+[cite_start]I am always eager to learn, improve, and deliver high-quality, user-centric products[cite: 6].
+
+---
+
+## 🛠️ My Tech Stack
+
+Here are the primary technologies and tools I work with:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js, Next.js, JavaScript (ES6+), Tailwind CSS [cite: 43] |
+| **Backend** | [cite_start]Node.js, Express.js, REST APIs, JWT Authentication [cite: 43][cite_start], MongoDB [cite: 16, 33, 41] |
+| **UI/UX & Graphics** | [cite_start]Figma (UI/UX Design) [cite: 43][cite_start], GSAP, Three.js [cite: 26] |
+| **Real-Time & AI** | [cite_start]Socket.IO [cite: 21, 37][cite_start], Google Gemini API [cite: 15, 32][cite_start], Google Maps API [cite: 22, 39] |
+| **Tools & Platforms** | [cite_start]Git, GitHub, Vercel, Netlify, Postman, VS Code [cite: 43] |
+
+---
+
+## 💻 Featured Projects
+
+Here are a couple of projects I'm proud of.
+
+### [cite_start]1. AI Quiz Generator [cite: 31]
+[cite_start]A full-stack web application that leverages the **Google Gemini API** to auto-generate quizzes from uploaded PDF notes[cite: 15, 32].
+
+* [cite_start]**Key Features:** Secure JWT authentication, PDF text extraction, dynamic quiz rendering, customizable quiz settings, and AI-based explanations[cite: 17, 35].
+* [cite_start]**Tech Stack:** MERN Stack (React, Node.js, Express), MongoDB, Google Gemini API[cite: 15, 16, 33].
+* **Links:** `[Live Link]`(http://your-live-link.com) | [cite_start]`[GitHub Repository]`(http://your-github-link.com) [cite: 34]
+
+### [cite_start]2. Uber Clone (Real-Time Ride Sharing) [cite: 36]
+[cite_start]A real-time ride-sharing platform engineered with the MERN stack and **Socket.IO** for live location updates and ride management[cite: 21, 37].
+
+* [cite_start]**Key Features:** Integrated **Google Maps API** for route visualization, distance/time calculation, and location autocomplete[cite: 22, 39]. [cite_start]Features JWT & OTP verification, fare estimation, and vehicle selection[cite: 23, 40].
+* [cite_start]**Tech Stack:** React (Vite, Tailwind), Node.js, Express, MongoDB, Socket.IO, Google Maps API[cite: 41, 37, 39].
+* **Links:** `[Live Link]`(http://your-live-link.com) | [cite_start]`[GitHub Repository]`(http://your-github-link.com) [cite: 38]
+
+---
+
+## 📫 Let's Connect!
+
+I'm actively looking for opportunities and am always open to connecting with new people.
+
+* [cite_start]**Portfolio:** [sayanmaity.com](https://sayanmaity.com) [cite: 3]
+* [cite_start]**LinkedIn:** [linkedin.com/in/sayan-maitydev](https://linkedin.com/in/sayan-maitydev) [cite: 3]
+* [cite_start]**Email:** [sayanmaity600@gmail.com](mailto:sayanmaity600@gmail.com) [cite: 3]
