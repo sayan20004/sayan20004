@@ -30,14 +30,14 @@ A full-stack web application that leverages the **Google Gemini API** to auto-ge
 
 * **Key Features:** Secure JWT authentication, PDF text extraction, dynamic quiz rendering, customizable quiz settings, and AI-based explanations.
 * **Tech Stack:** MERN Stack (React, Node.js, Express), MongoDB, Google Gemini API.
-* **Links:** `[Live Link]`(http://your-live-link.com) | `[GitHub Repository]`(http://your-github-link.com)
+* **Links:** `[Live Link]`https://aiquizv2.vercel.app | `[GitHub Repository]`https://github.com/sayan20004/aiquiz
 
 ### 2. Uber Clone (Real-Time Ride Sharing)
 A real-time ride-sharing platform engineered with the MERN stack and **Socket.IO** for live location updates and ride management.
 
 * **Key Features:** Integrated **Google Maps API** for route visualization, distance/time calculation, and location autocomplete.Features JWT & OTP verification, fare estimation, and vehicle selection.
 * **Tech Stack:** React (Vite, Tailwind), Node.js, Express, MongoDB, Socket.IO, Google Maps API.
-* **Links:** `[Live Link]`(http://your-live-link.com) | [cite_start]`[GitHub Repository]`(http://your-github-link.com)
+* **Links:** `[Live Link]`https://uberclonev2.vercel.app | [cite_start]`[GitHub Repository]`https://github.com/sayan20004/UberClone
 
 ---
 
@@ -45,6 +45,6 @@ A real-time ride-sharing platform engineered with the MERN stack and **Socket.IO
 
 I'm actively looking for opportunities and am always open to connecting with new people.
 
-* **Portfolio:** [sayanmaity.com](https://sayanmaity.com)
+* **Portfolio:** [sayanmaity](https://sayanmaity.vercel.app)
 * **LinkedIn:** [linkedin.com/in/sayan-maitydev](https://linkedin.com/in/sayan-maitydev)
 * **Email:** [sayanmaity600@gmail.com](mailto:sayanmaity600@gmail.com)
