@@ -9,7 +9,7 @@ I am always eager to learn, improve, and deliver high-quality, user-centric prod
 
 ---
 
- @@ -17,38 +17,38 @@ Here are the primary technologies and tools I work with:
+Here are the primary technologies and tools I work with:
 
 | Category | Technologies |
 | :--- | :--- |
