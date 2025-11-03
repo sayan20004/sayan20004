@@ -30,14 +30,14 @@ A full-stack web application that leverages the **Google Gemini API** to auto-ge
 
 * **Key Features:** Secure JWT authentication, PDF text extraction, dynamic quiz rendering, customizable quiz settings, and AI-based explanations.
 * **Tech Stack:** MERN Stack (React, Node.js, Express), MongoDB, Google Gemini API.
-* **Links:** `[Live Link]`https://aiquizv2.vercel.app | `[GitHub Repository]`https://github.com/sayan20004/aiquiz
+* **Links:** [Live Link](https://aiquizv2.vercel.app) | [GitHub Repository](https://github.com/sayan20004/aiquiz)
 
 ### 2. Uber Clone (Real-Time Ride Sharing)
 A real-time ride-sharing platform engineered with the MERN stack and **Socket.IO** for live location updates and ride management.
 
 * **Key Features:** Integrated **Google Maps API** for route visualization, distance/time calculation, and location autocomplete.Features JWT & OTP verification, fare estimation, and vehicle selection.
 * **Tech Stack:** React (Vite, Tailwind), Node.js, Express, MongoDB, Socket.IO, Google Maps API.
-* **Links:** `[Live Link]`https://uberclonev2.vercel.app | [cite_start]`[GitHub Repository]`https://github.com/sayan20004/UberClone
+* **Links:** [Live Link](https://uberclonev2.vercel.app) | [GitHub Repository](https://github.com/sayan20004/UberClone)
 
 ---
 
