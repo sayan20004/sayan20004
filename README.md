@@ -13,7 +13,7 @@ Here are the primary technologies and tools I work with:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, JavaScript (ES6+), Tailwind CSS |
+| **Fron-tend** | React.js, Next.js, JavaScript (ES6+), Tailwind CSS |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, MongoDB |
 | **UI/UX & Graphics** | Figma (UI/UX Design), GSAP, Three.js |
 | **Real-Time & AI** | Socket.IO, Google Gemini API, Google Maps API |
