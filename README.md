@@ -1,5 +1,5 @@
 
-## 🚀 Full-Stack Developer | MERN, Web3 & Modern UI/UX
+## 🚀 IOS APPS & WEB DEVELOPER
 
 I'm a third-year BCA student from West Bengal, India, currently pursuing my degree at MAKAUT University.
 
