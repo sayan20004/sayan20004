@@ -1,5 +1,5 @@
 
-## 🚀 IOS APPS & WEB DEVELOPER
+## 🚀 Software Developer, Inida
 
 I'm a third-year BCA student from West Bengal, India, currently pursuing my degree at MAKAUT University.
 
