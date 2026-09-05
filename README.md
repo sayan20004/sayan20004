@@ -1,7 +1,7 @@
 
 ## 🚀 Software Developer, Inida
 
-I'm a BCA graduate from West Bengal, India, currently pursuing my degree at MAKAUT University.
+I'm a Software Developer from West Bengal, India, currently pursuing my degree at MAKAUT University.
 
 I am passionate about building high-impact, full-stack applications that solve real-world problems.My expertise lies in the **MERN stack**, but I'm also actively exploring **Web3** technologies. I have a strong command of scalable front-end architecture, secure **JWT-based authentication**, and creating visually rich, interactive interfaces with tools like **Figma, GSAP, and Three.js**.
 
